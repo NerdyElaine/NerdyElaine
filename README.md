@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NerdyElaine
+- 👀 I’m interested in Programming, Philosophy, Mathematics, Physics, Guitar 
+- 🌱 I’m currently learning JS, Python, C
+- 😄 Pronouns: She/Her/They
+- ⚡ Fun fact: Bananas
